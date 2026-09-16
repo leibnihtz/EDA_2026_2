@@ -1,0 +1,19 @@
+# Entorno virtual y archivos generados
+/BigData20262/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+/.venv/
+/venv/
+
+# Datos personales y derivados
+/data/bronze/*.csv
+/data/silver/*
+!/data/silver/text.txt
+/data/gold/*
+!/data/gold/text.txt
+
+# Temporales
+/tmp/*
+!/tmp/text.txt
