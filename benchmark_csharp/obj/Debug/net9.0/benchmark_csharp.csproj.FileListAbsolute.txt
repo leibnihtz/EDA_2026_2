@@ -1,0 +1,15 @@
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\bin\Debug\net9.0\benchmark_csharp.exe
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\bin\Debug\net9.0\benchmark_csharp.deps.json
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\bin\Debug\net9.0\benchmark_csharp.runtimeconfig.json
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\bin\Debug\net9.0\benchmark_csharp.dll
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\bin\Debug\net9.0\benchmark_csharp.pdb
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.AssemblyInfoInputs.cache
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.AssemblyInfo.cs
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.sourcelink.json
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.dll
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\refint\benchmark_csharp.dll
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.pdb
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\benchmark_csharp.genruntimeconfig.cache
+C:\Users\Leibnihtz\Documents\Leibtechs\Docente_UNAJ\2026-2\BigData\EDA\benchmark_csharp\obj\Debug\net9.0\ref\benchmark_csharp.dll
